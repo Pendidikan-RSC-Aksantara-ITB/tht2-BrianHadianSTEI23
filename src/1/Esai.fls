@@ -139,10 +139,10 @@ INPUT ./Esai.out
 INPUT ./Esai.out
 INPUT Esai.out
 INPUT Esai.out
-OUTPUT Esai.pdf
 INPUT ./Esai.out
 INPUT ./Esai.out
 OUTPUT Esai.out
+OUTPUT Esai.pdf
 INPUT h:/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
 INPUT h:/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
 INPUT h:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map

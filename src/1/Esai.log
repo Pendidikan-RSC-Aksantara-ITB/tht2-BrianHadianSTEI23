@@ -325,51 +325,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {h:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-runsystem(latexminted cleantemp  --timestamp 20260204202523 8CB14EE530FBBEC3F32965CB6AC0607F)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260204202527 8CB14EE530FBBEC3F32965CB6AC0607F)...executed safely (allowed).
 
  (./Esai.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `Esai.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Esai.out':
-(rerunfilecheck)             Before: 5C4F725C9852051A5A9DD272BB57BF1E;541
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Esai.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14161 strings out of 467533
- 273031 string characters out of 5423668
- 792612 words of memory out of 5000000
- 42926 multiletter control sequences out of 15000+600000
+ 14150 strings out of 467533
+ 272889 string characters out of 5423668
+ 792591 words of memory out of 5000000
+ 42920 multiletter control sequences out of 15000+600000
  631102 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1114b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.1.4} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.3} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.2} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1} has been referenced but does not exist, replaced by a fixed one
-
 <h:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><h:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><h:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><h:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Esai.pdf (1 page, 50316 bytes).
+Output written on Esai.pdf (1 page, 49904 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
