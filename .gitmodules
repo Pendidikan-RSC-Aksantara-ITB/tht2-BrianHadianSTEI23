@@ -1,0 +1,6 @@
+[submodule "src/2/CaRSC-13523048-GCS-THT2"]
+	path = src/2/CaRSC-13523048-GCS-THT2
+	url = https://github.com/BrianHadianSTEI23/CaRSC-13523048-GCS-THT2
+[submodule "src/3/CaRSC26-13523048-BoidsSwarmingAlgorithm"]
+	path = src/3/CaRSC26-13523048-BoidsSwarmingAlgorithm
+	url = https://github.com/BrianHadianSTEI23/CaRSC26-13523048-BoidsSwarmingAlgorithm
